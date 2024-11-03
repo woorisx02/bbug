@@ -6,20 +6,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Welcome to B.Bug</title>
-<link rel="shortcut icon" href="../resources/imgs/support/favicon.ico">
+<link rel="shortcut icon" href="/resources/imgs/support/favicon.ico">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 <link href="https://cdn.jsdelivr.net/gh/sun-typeface/SUIT@2/fonts/variable/woff2/SUIT-Variable.css" rel="stylesheet">
 <!--font-family: 'SUIT', sans-serif;-->
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
 <!--font-family: "Playfair Display", serif;-->
-<link rel="stylesheet" href="../resources/flexSlider/css/flexslider.css">
-<link rel="stylesheet" href="../resources/flexSlider/css/fs-slide.css">
-<link rel="stylesheet" href="../resources/css/reset.css">
-<link rel="stylesheet" href="../resources/css/common.css">
-<link rel="stylesheet" href="../resources/css/index.css">
-<script src="../resources/js/jquery-1.12.4.min.js"></script>
-<script src="../resources/flexSlider/js/jquery.flexslider.js"></script>
-<script src="../resources/js/common-script.js"></script>
+<link rel="stylesheet" href="/resources/flexSlider/css/flexslider.css">
+<link rel="stylesheet" href="/resources/flexSlider/css/fs-slide.css">
+<link rel="stylesheet" href="/resources/css/reset.css">
+<link rel="stylesheet" href="/resources/css/common.css">
+<link rel="stylesheet" href="/resources/css/index.css">
+<script src="/resources/js/jquery-1.12.4.min.js"></script>
+<script src="/resources/flexSlider/js/jquery.flexslider.js"></script>
+<script src="/resources/js/common-script.js"></script>
 <script>
 	$(function () {
 		$(window).load(function () {
