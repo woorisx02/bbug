@@ -32,7 +32,7 @@ h2, h3, h5, h6 {font-family:"Playfair Display", serif;}
 h3 span {color: #930c71;}
 h4 {font-family:"SUIT-Bold", sans-serif;}
 ul li, ol li {list-style:none;}
-a {display:inline-block; text-decoration:none; color: #f6f6f6;}
+a {display:inline-block; text-decoration:none; color:#f6f6f6;}
 
 .flex {display:flex;}
 .flex-center {display:flex; justify-content:center; align-items:center;}
