@@ -25,8 +25,8 @@
 			<input type="text" name="user_id" placeholder="아이디입력" required autofocus>
 			<button type="button" onclick="idCheck()">아이디중복확인</button>
 		</li>
-		<li><input type="text" name="user_name" placeholder="비밀번호입력" required></li>
 		<li><input type="password" name="user_pwd" placeholder="비밀번호입력" required></li>
+		<li><input type="text" name="user_name" placeholder="이름입력" required></li>
 		<li><input type="password" name="user_pwd" placeholder="비밀번호입력" required></li>
 		<li><input type="password" name="user_pwd" placeholder="비밀번호입력" required></li>
 		<li><input type="password" name="user_pwd" placeholder="비밀번호입력" required></li>
