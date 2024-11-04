@@ -1,4 +1,4 @@
-package org.bbug.admin.controller;
+package org.bookbug.admin.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

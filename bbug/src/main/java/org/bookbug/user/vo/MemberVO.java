@@ -1,4 +1,4 @@
-package org.bbug.user.vo;
+package org.bookbug.user.vo;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package org.bbug.admin.service;
+package org.bookbug.admin.service;
 
 public interface AdminMemberService {
 

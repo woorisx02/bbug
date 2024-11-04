@@ -1,4 +1,4 @@
-package org.member.controller;
+package org.bookbug.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
