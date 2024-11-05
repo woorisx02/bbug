@@ -45,8 +45,8 @@
             </ul>
 			
             <ul class="top-menu">
-                <li><a href="#"><span>login</span><i class="bi bi-person-fill"></i></a></li>
-                <li><a href="#"><span>join</span><i class="bi bi-lock-fill"></i></a></li>
+                <li><a href="/admin/confirm/login"><span>login</span><i class="bi bi-person-fill"></i></a></li>
+                <li><a href="/admin/member/register"><span>join</span><i class="bi bi-lock-fill"></i></a></li>
             </ul>
         </nav>
     </header> 

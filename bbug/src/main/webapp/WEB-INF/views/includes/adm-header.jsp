@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Book Rental</title>
+<title>BookBug</title>
 <link rel="stylesheet" href="/resources/css/reset.css">
 <link rel="stylesheet" href="/resources/css/admin/common.css">
 <script src="/resources/js/jquery-1.12.4.min.js"></script>
@@ -56,15 +56,15 @@
 			
 			<c:if test="${emp == null}">
 			<ul class="top-menu">
-				<li><a href="/admin/staff/login">로그인</a></li>
+				<li><a href="/admin/confirm/login">로그인</a></li>
 			</ul>
 			</c:if>
 			
 			<c:if test="${emp != null}">
 			<ul class="top-menu">
-				<li>${emp.staff_name} 님</li>
-				<li><a href="/admin/staff/logout">로그아웃</a></li>
-				<li><a href="/admin/staff/mypage?staff_id=${emp.staff_id}">마이페이지</a></li>
+				<li>${member.user_nickname} 님</li>
+				<li><a href="/admin/confirm/logout">로그아웃</a></li>
+				<li><a href="/admin/member/mypage?user_id=${member.user_id}">마이페이지</a></li>
 			</ul>
 			</c:if>
 		</nav>
